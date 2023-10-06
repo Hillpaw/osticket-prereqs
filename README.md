@@ -59,7 +59,7 @@ After that is done, refresh the osTicket site in your browser, and observe the c
 <img src="https://i.imgur.com/4xWwEGN.png" alt="ReadExecute and Read Only"/>
 </p>
 <p>
-Set the permissions on c:\inetpub\wwwroot\osTicket\include\ost-config.php file to Read & Execute and Read only.
+Set the permissions on C:\inetpub\wwwroot\osTicket\include\ost-config.php file to Read & Execute and Read only.
 </p>
 <br />
 
