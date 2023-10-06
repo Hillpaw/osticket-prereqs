@@ -43,7 +43,7 @@ If you do not see anything, other than an error, make sure to go back to the Win
 <br />
 
 <p>
-<img src="[https://i.imgur.com/WMFM4hk.png](https://i.imgur.com/tHnpZ98.png)" alt="osTicket extensions"/>
+<img src="https://i.imgur.com/tHnpZ98.png" alt="osTicket extensions"/>
 </p>
 <p>
 Note that some extensions are not enabled. Go back to IIS, then go to Sites -> Default -> osTicket and double-click PHP Manager.
@@ -56,7 +56,7 @@ After that is done, refresh the osTicket site in your browser, and observe the c
 <br />
 
 <p>
-<img src="[https://i.imgur.com/WMFM4hk.png](https://i.imgur.com/4xWwEGN.png)" alt="ReadExecute and Read Only"/>
+<img src="https://i.imgur.com/4xWwEGN.png" alt="ReadExecute and Read Only"/>
 </p>
 <p>
 Set the permissions on c:\inetpub\wwwroot\osTicket\include\ost-config.php file to Read & Execute and Read only.
@@ -64,7 +64,7 @@ Set the permissions on c:\inetpub\wwwroot\osTicket\include\ost-config.php file t
 <br />
 
 <p>
-<img src="[https://i.imgur.com/WMFM4hk.png](https://i.imgur.com/b8t8CPd.png)" alt="osTicket Control Panel"/>
+<img src="https://i.imgur.com/b8t8CPd.png" alt="osTicket Control Panel"/>
 </p>
 <p>
 After everything is set, you will be greeted by the Staff Control Panel screen
